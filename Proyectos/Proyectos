@@ -1,0 +1,32 @@
+(Plazo de entrega: entre 10 y 15 días).
+
+Hemos diseñado una plataforma en WordPress con WooCommerce para una empresa que vende etiquetas para objetos y ropa personalizadas. Dentro de esta plataforma, desarrollamos un plugin de WordPress que permite a los visitantes diseñar sus propias etiquetas/rotuladores (con cambio de fondos y tipografías). Llamamos a este plugin el “Creador de Etiquetas”.
+La parte del front end está hecha en React. Para agilizar el desarrollo, la persona contratada para este proyecto tendrá a disposición un asesor (que fue el desarrollador inicial de este plugin).
+
+Por tanto a continuación, tenemos una serie de requerimientos para mejorar en el sitio web:
+
+1) Carrito y Visualización:
+
+Agregar etiquetas al Carrito de Compras para que el cliente pueda verificar el producto que armó con el "Creador de etiquetas", antes de confirmar la compra.
+Mostrar los datos de personalización elegidos (por ejemplo: Tipografía 1, Tipografía 2, Tipografía 3…) en el Carrito, en el E-mail de confirmación y en la Administración de pedidos para evitar confusión.
+
+
+2) Creador de Etiquetas:
+
+Modificar la visualización de los diseños en el "Creador de etiquetas" para que se muestren en dos líneas en lugar de una. Revisar la versión responsive y generar una adaptación que también se visualice correctamente en celulares.
+
+3) Gestión de Stock:
+
+Implementar un aviso de "sin stock" cuando un producto se quede sin stock.
+
+4) Nuevo tamaño de Etiquetas:
+
+Crear un nuevo tamaño de etiquetas para niños siguiendo los patrones del "Creador de Etiquetas".
+
+5) Personalización de E-mails:
+
+Agregar el logo y personalizar los textos en los emails que envía WooCommerce a los clientes acorde a la estética de la marca.
+Ajustar la información en los emails de confirmación y pedido completado para evitar confusión sobre la dirección de envío y facturación.
+Mostrar la sucursal de Correo Argentino seleccionada por el cliente en el email de confirmación y en el panel de administración de pedidos.
+Incluir un campo editable en los emails para agregar la fecha de despacho y otros mensajes personalizados.
+Agregar un link en los emails que redirijan a los videos instructivos de la empresa.
